@@ -1,0 +1,6 @@
+{
+  "name": "学生签到与学业统计",
+  "description": "离线可用的手机端学生签到签退、作业耗时记录、多维图表分析与本地数据库管理系统",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
